@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/mux8to1.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/shift.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/shift_testtbench.vhd"
+
+# Do not sort compile order
+nosort

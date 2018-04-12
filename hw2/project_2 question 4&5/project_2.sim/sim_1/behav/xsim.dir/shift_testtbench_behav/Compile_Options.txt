@@ -1,0 +1,1 @@
+-wto "ce6d5b76751849caad85121c732903f0" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "shift_testtbench_behav" "xil_defaultlib.shift_testtbench" -log "elaborate.log" 

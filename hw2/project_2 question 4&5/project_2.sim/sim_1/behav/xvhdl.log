@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/6term/FPGA/hw2/project_2/project_2.srcs/sources_1/new/mux8to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux8to1
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/6term/FPGA/hw2/project_2/project_2.srcs/sources_1/new/shift.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity shift
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/6term/FPGA/hw2/project_2/project_2.srcs/sources_1/new/shift_testtbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity shift_testtbench

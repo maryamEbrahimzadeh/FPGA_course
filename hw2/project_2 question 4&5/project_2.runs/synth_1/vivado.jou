@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Wed Mar 07 23:41:13 2018
+# Process ID: 9988
+# Current directory: D:/6term/FPGA/hw2/project_2/project_2.runs/synth_1
+# Command line: vivado.exe -log testbench.vds -mode batch -messageDb vivado.pb -notrace -source testbench.tcl
+# Log file: D:/6term/FPGA/hw2/project_2/project_2.runs/synth_1/testbench.vds
+# Journal file: D:/6term/FPGA/hw2/project_2/project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source testbench.tcl -notrace
